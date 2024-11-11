@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logan </h1>
-<h3 align="center">A rookie software developer from Scotland</h3>
+<h3 align="center">A rookie software developer!</h3>
 
 - 🌱 I’m currently learning **Python, JavaScript, HTML & CSS**
 
