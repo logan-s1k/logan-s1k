@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <h3 align="center">I suck at coding</h3>
 
-- I’m currently learning **Java, Python, JavaScript, HTML & CSS**
+- Currently learning **Java, Python, JavaScript, HTML & CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
