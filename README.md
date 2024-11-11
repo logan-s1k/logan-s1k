@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan </h1>
 <h3 align="center">A rookie software developer!</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML & CSS**
+- 🌱 I’m currently learning **Java, Python, JavaScript, HTML & CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
